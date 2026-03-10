@@ -60,4 +60,4 @@ El análisis permite identificar patrones de cancelación, factores clave que in
 
 1. Abrir **`TelecomX_LATAM-Parte2.ipynb`** en **Colab** .  
 2. Cargar los archivos de datos de ventas en el entorno.  
-3. Ejecutar las celdas de análisis en orden para reproducir los resultados y gráficos. 
+3. Desde donde dice **PARTE 2** ejecutar  las celdas de análisis en orden para reproducir los resultados y gráficos. 
